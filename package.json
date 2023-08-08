@@ -1,6 +1,6 @@
 {
   "homepage": "http://zeyad-belal.github.io/Expenses-Tracker",
-  "name": "Expenses-Tracker",
+  "name": "ExpensesTracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
